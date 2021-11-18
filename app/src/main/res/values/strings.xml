@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Score Leaderboard</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="leaderboard">Leaderboard</string>
+    <string name="leaderboardtext">Leaderboard</string>
+    <string name="textview">TextView</string>
+    <string name="game_list">Game List</string>
+    <string name="game_names">Game Names</string>
+    <string name="genre">FPS Games</string>
+    <string name="game2">Game of Games</string>
+    <string name="game1">Clash of Games</string>
+    <string name="go_to_score">Go To Score</string>
+    <string name="buttons">Buttons</string>
+    <string name="game3">War of the Games</string>
+    <string name="game4">Karlson</string>
+    <string name="boardgamesLabel">Board Games</string>
+    <string name="Game5">Chess</string>
+    <string name="checkersLabel">Checkers</string>
+    <string name="goLabel">GO</string>
+    <string name="monopolyLabel">Monopoly</string>
+    <string name="leaderboardLabel">Leaderboard</string>
+    <string name="top_10_label">Top 10</string>
+    <string name="chosenLevelLabel">Chosen Level</string>
+    <string name="leaderBoardLabel">Leaderboard</string>
+    <string name="chosen_game_name">Chosen Game Name</string>
+    <string name="choose_level">Choose level</string>
+    <string name="level1Label">Level 1:</string>
+    <string name="level2Label">Level 2:</string>
+    <string name="level3Label">Level 3:</string>
+    <string name="level4Label">Level 4:</string>
+    <string name="level5Label">Level 5:</string>
+</resources>
